@@ -7,7 +7,7 @@ This Repository consists of Tasks of all the Tracks that will help you to begin 
 
 *The submissions of the tasks are valid only through a submission made on github.*
 You need to create a github repository in this format :
-*   Name of the repository - **TJ-Tasks-2023-&lt;Your\_Name&gt;**
+*   Name of the repository - **TJ-Tasks-2024-&lt;Your\_Name&gt;**
 *   You should have a compulsory **Readme.md** file describing your approach, algorithm, etc.
 *   In that **Readme.md** file, you should attach the screenshots of your final outputs of the questions/websites/app/results along with the approach as mentioned in the previous point.
 
