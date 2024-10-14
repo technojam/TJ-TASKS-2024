@@ -1,6 +1,6 @@
 # Problem Set
 
-## Dont' Wory For Your Evaluation Just do your Best 
+## Dont' Worry For Your Evaluation Just do your Best 
 
 ## Easy
 
