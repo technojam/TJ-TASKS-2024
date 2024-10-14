@@ -9,6 +9,7 @@ Each task builds on practical aspects of **AI development** while giving you eno
 ## 🗓 **Challenge Timeline**
 - **Duration:** 2 Days
 - **Submission Format:** Code + Results + Optional Demo Video
+- **For queries: Discord First or GitHub discussions**
 - **Contact (Maintainer/Instructor):** [GitHub: anurag-bit](https://github.com/anurag-bit)
 
 ---
