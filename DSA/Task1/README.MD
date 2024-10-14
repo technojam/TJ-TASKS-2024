@@ -96,6 +96,10 @@ A permutation of integers `1, 2, ..., n` is called **Flame Hasira** if there are
 
 Given an integer `n`, your task is to construct a **Flame Hasira** permutation if such a permutation exists. If there are multiple solutions, you can print any of them. If it is not possible to create a Flame Hasira permutation, print **"NO SOLUTION"**.
 
+### Constraints
+
+- `1 <= n <= 10^6`
+
 #### Input Format:
 - A single integer `n` which represents the length of the permutation.
 
@@ -204,6 +208,8 @@ You are given an array `nums` of `n` integers and two integers `k` and `x`. The 
 1. Count the occurrences of all elements in the array.
 2. Keep only the occurrences of the top `x` most frequent elements. If two elements have the same number of occurrences, the element with the bigger value is considered more frequent.
 3. Calculate the sum of the resulting array.
+
+Note that if an array has less than `x` distinct elements, its x-sum is the sum of the array.
 
 Return an integer array `answer` of length `n - k + 1` where `answer[i]` is the x-sum of the subarray `nums[i..i + k - 1]`.
 
