@@ -46,5 +46,5 @@ Note : The YouTube video links are provided only for reference. Do not create an
   - Protect sensitive routes (such as the dashboard) so that they are only accessible to authenticated users.
 - **Session Expiration**: Implement session expiration using the JWT token's expiry feature.
 
-**Example Link**: [JWT Authentication Example](https://youtu.be/cGmzBNH2wUo?si=ijgJY4lBDlEXnmvY)
+- **Example Video**: [JWT Authentication Example](https://youtu.be/cGmzBNH2wUo?si=ijgJY4lBDlEXnmvY)
 
