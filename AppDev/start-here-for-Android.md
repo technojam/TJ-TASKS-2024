@@ -9,6 +9,7 @@ You'll have **three levels of difficulty**, a **bonus challenge**, and an **adva
 ## 🗓 **Challenge Timeline**
 - **Duration:** 2 Days
 - **Submission Format:** Code + APK + Screenshots + Optional Demo Video
+- **For queries: Discord First or GitHub discussions**
 - **Contact (Maintainer/Instructor):** [GitHub: anurag-bit](https://github.com/anurag-bit)
 
 ---
