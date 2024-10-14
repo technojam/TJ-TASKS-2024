@@ -7,8 +7,6 @@ Each task builds on practical aspects of **AI development** while giving you eno
 ---
 
 ## 🗓 **Challenge Timeline**
-- **Duration:** 8 Days
-- **Task Submission:** Daily or Batch Submission by Day 8
 - **Submission Format:** Code + Results + Optional Demo Video
 - **Contact (Maintainer/Instructor):** [GitHub: anurag-bit](https://github.com/anurag-bit)
 
@@ -26,7 +24,7 @@ Each task builds on practical aspects of **AI development** while giving you eno
 
 ---
 
-## 🌟 **Beginner Level (Super Easy)** (Day 1)
+## 🌟 **Beginner Level (Super Easy)**
 ### **Task: Random Poetry Generator**
 **Description:** Write a script that randomly selects words from a list (nouns, verbs, adjectives, etc.) and generates a short **poem** or **haiku**. Add a bit of formatting magic to make it look fancy! 🎩
 
@@ -50,7 +48,7 @@ Copy code
 
 ---
 
-## 🚀 **Level 1: Easy** (Day 2)
+## 🚀 **Level 1: Easy**
 ### **Task: Text Generator Using Markov Chains**
 **Description:** Build a **simple text generator** using Markov Chains. Use a text corpus of your choice (Shakespeare’s plays, song lyrics, etc.) and generate short but coherent sentences.
 
@@ -66,7 +64,7 @@ Copy code
 
 ---
 
-## 🌱 **Level 2: Intermediate** (Day 3-5)
+## 🌱 **Level 2: Intermediate**
 ### **Task: AI Image Caption Generator**
 **Description:** Create a pipeline that takes an **image** as input and generates a **caption** for it using a pre-trained model (e.g., InceptionNet + LSTM). Try using **MS COCO samples** or your own image collection.
 
@@ -82,7 +80,7 @@ Copy code
 
 ---
 
-## 🔥 **Level 3: Advanced** (Day 6-7)
+## 🔥 **Level 3: Advanced**
 ### **Task: Fine-tune a Language Model (Choice-based)**
 **Description:** Choose a small GPT model (or BERT variant) and **fine-tune** it on a niche dataset of your choice (e.g., movie dialogues, poetry, or even cooking recipes!). The goal is to make the model generate contextually relevant responses.
 
