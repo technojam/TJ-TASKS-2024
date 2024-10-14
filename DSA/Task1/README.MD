@@ -1,6 +1,3 @@
-Got it! Here's the Markdown file with proper formatting without changing the questions:
-
-```markdown
 # Problem Set
 
 ---
