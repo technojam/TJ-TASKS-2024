@@ -32,16 +32,19 @@ Note : The YouTube video links are provided only for reference. Do not create an
     - A display area to show the translated text.
   - Integrate a public translation API (e.g., Google Translate API) to fetch translations.
     
-- **Reference Video**: [Translation Tool Tutorial](https://youtu.be/9QpsA-kp4sw?si=TW79Ik3BekyGu2zy)
+- **Example Video**: [Translation Tool Tutorial](https://youtu.be/9QpsA-kp4sw?si=TW79Ik3BekyGu2zy)
+
+
 ## Hard:
 
-**Develop a full-stack music player application with user authentication and playlist management.**
+**Develop a secure user authentication system, utilizing JWT tokens and session expiration.**
 - **Requirements**:
-  - Create a full-stack application using any technology stack (e.g., MERN, Django).
-  - Key features to implement:
-    - **User Authentication**: Allow users to sign up, log in, and log out.
-    - **Music Playback Controls**: Include controls for play, pause, and skip.
-    - **Playlist Creation**: Users can create and manage their playlists.
-    - Ensure only authenticated users can access their playlists.
-- **Reference Video**: [Full-Stack Music Player Tutorial](https://youtu.be/i_tZBYQjVRs?si=l-ctF0AYjPVwwJD5)
+  - **JWT Authentication**: Use JWT tokens to secure user sessions. When a user logs in, generate a token, and store it securely on the client-side (e.g., using cookies or local storage).
+- **User Authentication**: 
+  - **Sign-Up**: Allow users to create an account with a username/email and password.
+  - **Sign-In**: Implement login functionality to authenticate users.
+  - Protect sensitive routes (such as the dashboard) so that they are only accessible to authenticated users.
+- **Session Expiration**: Implement session expiration using the JWT token's expiry feature.
+
+**Example Link**: [JWT Authentication Example](https://youtu.be/cGmzBNH2wUo?si=ijgJY4lBDlEXnmvY)
 
