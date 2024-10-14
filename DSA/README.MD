@@ -26,7 +26,14 @@ nums = [2, 2, 3, 3, 5, 5, 7]
 7
 ```
 ### 2. Minimum Blocks to Add
-In Blocksville, a group of children built towers. The heights should be in non-decreasing order. To achieve this, the children want to add blocks to make shorter towers as tall as the previous one. Calculate the minimum number of blocks needed.
+You are given an array of n integers. You want to modify the array so that it is increasing, i.e., every element is at least as large as the previous element.
+On each move, you may increase the value of any element by one. What is the minimum number of moves required?
+
+## Input Format
+1. The first input line contains an integer n: the size of the array.
+2. Then, the second line contains n integers x_1,x_2,...,x_n the contents of the array.
+## Output Format
+Print the minimum number of moves.
 
 #### Input:
 ```plaintext
@@ -74,9 +81,9 @@ Left = 5, Right = 7
 4
 ```
 
-### 2. Flame Hasira Permutation
+## 2. Flame Hasira Permutation
 
-## Problem Description
+### Problem Description
 
 A permutation of integers `1, 2, ..., n` is called **Flame Hasira** if there are no adjacent elements whose difference is exactly `1`.
 
@@ -149,6 +156,7 @@ The task is to help the king by printing out the exact path he should take for a
 ```plaintext
 3
 ```
+![alt text](<Screenshot 2024-10-14 014331.png>)
 ### Output
 ```
 1->2->3->8->9->4->7->6->5
