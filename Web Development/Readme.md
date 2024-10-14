@@ -4,7 +4,7 @@ This file consists of Web Development tasks that will help you begin your journe
 
 There are 3 tasks divided into 3 categories according to their difficulty levels.
 
-Note : Youtube video links is only provided for reference. Don't make a exact copy of that website 
+Note : The YouTube video links are provided only for reference. Do not create an exact copy of the referenced websites.
 
 ## Easy:
 
