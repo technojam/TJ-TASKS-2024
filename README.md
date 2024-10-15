@@ -18,7 +18,7 @@ You need to create a github repository in this format :
 *   Markdown Cheat Sheet (for creating your own **Readme.md** file) : [*MD CheatSheet*](https://www.markdownguide.org/cheat-sheet/)
 *   Connect with us:
     * Whatsapp - [*1st year Dev Groups*](https://chat.whatsapp.com/CqW738conVH2jgIY2d2LXX)
-    * Discord - [*TechnoJam Discord Server*](https://discord.gg/EGCdWaX54B)
+    * Discord - [*TechnoJam Discord Server*](https://discord.gg/ZCvacxzJ7T)
     * Instagram - [*TechnoJam Instagram*](https://www.instagram.com/teamtechnojam/?utm_medium=copy_link)
 
 
