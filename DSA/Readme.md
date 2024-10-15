@@ -1,4 +1,4 @@
-# **TechnoJam Audition 2024-2025**  
+# **TechnoJam Recruitment Audition 2024-2025**  
 ### (DSA Domain)
 
 ---

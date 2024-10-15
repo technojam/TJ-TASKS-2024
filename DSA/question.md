@@ -40,24 +40,31 @@ There are two ways to climb to the top:
 ---
 # Medium
 
-## Q3. Find First and Last Position of Element in Sorted Array
+## BitWar
 
-Given an array of integers `nums` sorted in non-decreasing order, find the starting and ending position of a given `target` value. If the `target` is not found in the array, return `[-1, -1]`. You must write an algorithm with `O(log n)` runtime complexity.
+Once upon a time, there was a curious inventor named Max who loved exploring the secrets of numbers. One day, Max found two magical stones marked with numbers—one called "Left" and the other "Right." These stones represented a range of numbers in a mystical world. Max's task was to find a powerful energy hidden within this range, called "Bitwise AND."
 
-### Examples:
+To unlock the energy, Max had to take every number between the Left and Right stones and find their bitwise AND—a special way of combining numbers by matching their "binary bits."
 
-**Example 1:**
-- Input: nums = [5,7,7,8,8,10], target = 8
-- Output: [3,4]
+For example:
+- When Max had the stones Left = 5 and Right = 7, he discovered the hidden energy was 4.
+- When both stones showed 0, the energy turned out to be 0.
+- When the stones showed 1 and 2147483647, the powerful energy was still 0!
 
-**Example 2:**
-- Input: nums = [5,7,7,8,8,10], target = 6
-- Output: [-1,-1]
+Max realized the magic lay in how the numbers lined up in their binary form, and he knew the answer always depended on those mysterious bits.
 
-**Example 3:**
-- Input: nums = [], target = 0
-- Output: [-1,-1]
+## Problem:
+Given two integers `Left` and `Right`, calculate the bitwise AND of all integers between `Left` and `Right` (inclusive).
 
+### Example:
+#### Input:
+```plaintext
+Left = 5, Right = 7
+```
+### Output:
+```
+4
+```
 ---
 
 ## Q4. String Compression
@@ -88,7 +95,7 @@ The compressed string `s` should not be returned separately, but instead, be s
 
 
 ---
-# Hard
+## Hard
 
 ## Q5. Find the Start of Cycle in a Linked List
 
@@ -122,3 +129,34 @@ Given the `head` of a linked list, return the node where the cycle begins. If
 - Input: head = [1], pos = -1
 - Output: no cycle
 - Explanation: There is no cycle in the linked list.
+
+---
+### Q6 Number Spiral Problem.
+
+A number spiral is an infinite grid whose upper-left square has the number 1. Here are the first five layers of the spiral:
+
+
+<img src="./image/material.png" alt="Triangle" width="200"/>
+
+## Task
+
+Your task is to find out the number in row `y` and column `x`.
+
+#### Constraints
+```
+•	1≤t≤10^5 
+•	1≤y,x≤10^9
+```
+### Example
+Input:
+```
+3
+2 3
+1 1
+4 2
+
+Output:
+8
+1
+15
+```
