@@ -2,7 +2,9 @@
 
   
 Here's something a bit different ke from those scary screens filled with code where most of you are like
-![Bhai Yaha Kya Ho Rha Hai, Bhai ye kaha aa gya mai ](https://tenor.com/en-GB/view/bhai-yeh-kya-ho-raha-hai-yeh-kya-hai-yeh-kya-ho-raha-hai-bhai-yeh-kya-hai-gif-12787910068904901493)
+
+![Bhai Yeh Kya Ho Raha Hai](https://c.tenor.com/sXfIdFS3u3UAAAAC/tenor.gif)
+
 
 With that welcome to the UI/UX track! We believe that design isn't just for cool folks who wear aesthitic outfits it's a thinking process made for everyone for making things look good—it's about solving problems and creating seamless user experiences.
 
